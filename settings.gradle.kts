@@ -17,3 +17,9 @@ dependencyResolutionManagement {
 rootProject.name = "TemplateMultiplatform"
 include(":androidApp")
 include(":shared")
+include(":shared:core")
+include(":shared:data")
+include(":shared:domain")
+include(":shared:entity")
+include(":shared:presentation")
+include(":shared:viewmodels")
